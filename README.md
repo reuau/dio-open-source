@@ -13,8 +13,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 Aprender o básico sobre contribuição no GitHub.
 
 ## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reuau)
 
 ## Percurso
 <table>
@@ -50,7 +49,7 @@ Agora que você já sabe as formas de contribuir em um projeto Open Source, est�
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
 > [!NOTE]   
-> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
+> Por exemplo, a URL https://github.com/reuau/dio-open-source é o "**fork**" feito pelo usuário do GitHub "`reuau`" para a contribuição no repositório `dio-lab-open-source`.
 
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
